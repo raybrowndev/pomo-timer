@@ -1,6 +1,6 @@
 # ⏰ Pomo Timer 
 
-A sleek and simple Pomodoro timer app designed to help you focus, stay organized, and boost productivity. Includes audio cues, customisable session lengths, and an integrated to-do list.
+A sleek and simple Pomodoro timer app designed to help you focus, stay organised, and boost productivity. Includes audio cues, customisable session lengths, and an integrated to-do list.
 
 ---
 
