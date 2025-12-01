@@ -4,7 +4,8 @@ A sleek and simple Pomodoro timer app designed to help you focus, stay organised
 
 ---
 
-
+## View live Site
+<a href="https://692e0ced04bef0014bb71e61--pomodoro-timer-ray-brown.netlify.app" target="_blank">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
